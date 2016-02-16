@@ -171,6 +171,19 @@ Make an anchor from a URL: Select url, then '<c-y>a'
 ### Status
 Find out the current opened file name: `:f`
 
+### Resizing Window
+```
+:res +5 => increase height by 5
+:res -5 => descrease height by 5
+
+#vertical resize to max
+Ctrl-w _
+
+#horizontal resize to max
+Ctrl-w |
+```
+
+
 
 
 ## References:
